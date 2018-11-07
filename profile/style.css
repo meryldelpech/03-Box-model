@@ -1,0 +1,32 @@
+body {
+    background: #EBEBEB;
+    font-family: 'Comfortaa', cursive;
+    font-weight: 400;
+    color: rgb(100, 100, 100);
+    font-size: 15px;
+    line-height: 1.6em;
+  }
+
+
+a {
+  text-decoration: none;
+  color: rgb(100, 100, 100);
+}
+
+.list-inline {
+  padding: 0;
+}
+
+.list-inline li {
+  display: inline-block;
+  margin: 0 5px;
+}
+
+#social-links i {
+  margin: 0 0 5px 0;
+  font-size: 1.5em;  /*em -> par raport à la taille de police du body*/
+}
+
+.text-center{
+  text-align: center;
+}
